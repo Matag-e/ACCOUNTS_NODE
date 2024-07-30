@@ -19,6 +19,7 @@ E te retorna um aviso que a conta foi criada, a conta vem em formato `JSON` e  �
 
 ![](https://i.imgur.com/v3STG2x.png)
 
+---
 
 ### 2. **Consultar Saldo**
 - Permite ao usuário consultar o saldo da conta informando o nome da conta.
@@ -26,6 +27,8 @@ E te retorna um aviso que a conta foi criada, a conta vem em formato `JSON` e  �
 Após selecionar a ação de `Consultar Saldo`, é solicitado o nome da conta e te retornará o saldo da conta:
 
 ![](https://i.imgur.com/yi4KAR9.png)
+
+---
 
 ### 3. **Realizar Depósito**
 - O usuário pode realizar depósitos em uma conta existente.
@@ -40,6 +43,8 @@ Ao selecionar a ação de `Depositar`, é solicitado que coloque o nome da conta
 - **Saldo após depósito**
 
 ![amount](https://i.imgur.com/WZgnuk7.png)
+
+---
 
 ### 4. **Realizar Saque**
 - O usuário pode realizar saques de uma conta existente.
